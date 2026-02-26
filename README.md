@@ -1,0 +1,2 @@
+# Flower-Aura-Web-Scrapping-and-Sentiment-Analysis
+🌸 FlowerAura Customer Sentiment Analysis Project 🌷 Scraped 500+ reviews using BeautifulSoup &amp; Selenium, performed data cleaning with Pandas, and applied NLP-based sentiment analysis using TextBlob. 📊 Identified 425 positive reviews, key strengths, weaknesses, and business insights to improve delivery, quality, and customer satisfaction. 🌹✨
